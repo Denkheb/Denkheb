@@ -1,0 +1,169 @@
+E070Y66%LfV0WI7
+
+.main{
+    gap: 12px;
+}
+
+.nav{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 26px;
+    display: flex;
+    gap: 18px;
+    background-color: white;
+}
+
+.nav{
+    position: sticky;
+    top: 0;
+    padding: 5px;
+}
+
+.sam{
+    text-align: center;
+    padding: 30px;
+}
+
+.both{
+    display: flex;
+}
+
+.sel{
+    width: 240px;
+}
+
+.buy{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(105, 105, 105, 0.226);
+    gap: 38px;
+    padding: 12px;
+    overflow-wrap: wrap;
+    font-family: SF Pro Text, SF Pro Icons, AOS Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    justify-content: space-evenly;
+}
+
+.i1{
+    height: 460px;
+    width: 340px;
+    background-color: white;
+    color: rgb(59, 59, 59);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.i2{
+    height: 460px;
+    width: 340px;
+    background-color: white;
+    color: rgb(59, 59, 59);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.i3{
+    height: 460px;
+    width: 340px;
+    background-color: white;
+    color: rgb(59, 59, 59);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.i4{
+    height: 460px;
+    width: 340px;
+    background-color: white;
+    color: rgb(59, 59, 59);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.i5{
+    height: 460px;
+    width: 340px;
+    background-color: white;
+    border-radius: 12px;
+    color: rgb(59, 59, 59);
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    padding: 12px;
+    gap: 16px;
+}
+
+.bu{
+    background-color: transparent;
+    color: black;
+    margin-top: 8px;
+}
+
+.gs{
+    display: block;
+    border: 1px solid rgb(128, 128, 128);
+    border-radius: 14px;
+    margin: 8px;
+    text-align: center;
+}
+
+.gz{
+    display: block;
+    border: 1px solid rgb(128, 128, 128);
+    border-radius: 14px;
+    margin: 8px;
+    text-align: center;
+}
+
+.ga{
+    display: block;
+    border: 1px solid rgb(128, 128, 128);
+    border-radius: 14px;
+    margin: 8px;
+    text-align: center;
+}
+
+.gm{
+    display: block;
+    border: 1px solid rgb(128, 128, 128);
+    border-radius: 14px;
+    margin: 8px;
+    text-align: center;
+}
+
+.gs:hover{
+    background-color: black;
+    color: white;
+    transition: 500ms;
+}
+
+.gz:hover{
+    background-color: black;
+    color: white;
+    transition: 500ms;
+}
+
+.ga:hover{
+    background-color: black;
+    color: white;
+    transition: 500ms;
+}
+
+.gm:hover{
+    background-color: black;
+    color: white;
+    transition: 500ms;
+}
+
+
+button{
+    text-align: center;
+    width: 280px;
+    padding: 8px;
+    border-radius: 16px;
+    background-color: black;
+    color: white;
+}

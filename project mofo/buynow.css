@@ -1,0 +1,49 @@
+body{
+    width: 100%;
+}
+
+.buynowtxt{
+    width: 70%;
+    padding-left: 40px;
+}
+.buynow{
+    width: 100%;
+    height: 40vh;
+}
+.cart{
+    width: 50%;
+    background-color: antiquewhite;
+    padding:10px;
+}
+.stock{
+    display: flex;
+    justify-content: space-between;
+
+}
+.buy{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+.buyimage{
+    height: 40vh;
+}
+.imageofobject{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.similarproduct{
+    text-transform: uppercase;
+    padding: 25px 35px;
+}
+.add{
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    height: 4vh;
+}
+
+
+
